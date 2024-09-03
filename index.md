@@ -9,7 +9,7 @@ var myVar = "Hello, world!";
 
 - [x] Turn on fan
 - [x] eat
-- [ ] play
+- [x] play
 - [ ] sleep
 
 
