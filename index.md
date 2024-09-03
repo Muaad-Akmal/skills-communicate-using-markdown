@@ -7,8 +7,8 @@
 var myVar = "Hello, world!";
 ```
 
-- [ ] Turn on fan
-- [ ] eat
+- [x] Turn on fan
+- [x] eat
 - [ ] play
 - [ ] sleep
 
