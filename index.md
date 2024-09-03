@@ -3,3 +3,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on fan
+- [ ] eat
+- [ ] play
+- [ ] sleep
